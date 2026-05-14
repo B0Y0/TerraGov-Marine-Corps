@@ -106,7 +106,7 @@
 	)
 	attachable_offset = list("muzzle_x" = 28, "muzzle_y" = 21,"rail_x" = 14, "rail_y" = 23, "under_x" = 24, "under_y" = 19, "stock_x" = 24, "stock_y" = 19)
 
-	damage_mult = 1.05
+	damage_mult = 15.05
 	scatter_unwielded = 12
 	recoil_unwielded = 0
 
